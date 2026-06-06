@@ -91,6 +91,7 @@ A curated list of awesome Model Context Protocol (MCP) clients.
     - [Tester MCP Client](#tester-mcp-client)
     - [Tiles Notebook](#tiles-notebook)
     - [Tome](#tome)
+    - [TWZRD Agent Intel](#twzrd-agent-intel)
     - [Vercade](#vercade)
     - [VS Code GitHub Copilot](#vs-code-github-copilot)
     - [Windsurf](#windsurf)
@@ -1716,6 +1717,21 @@ Tome is an open source cross-platform desktop app designed for working with loca
 ![Chat](./screenshots/tome/chat.png)
 ![MCP Servers](./screenshots/tome/mcp.png)
 </details>
+
+### TWZRD Agent Intel
+
+<table>
+<tr><th align="left">GitHub</th><td>https://github.com/twzrd-sol/wzrd-final</td></tr>
+<tr><th align="left">Website</th><td>https://intel.twzrd.xyz</td></tr>
+<tr><th align="left">License</th><td>-</td></tr>
+<tr><th align="left">Type</th><td>Remote MCP Server</td></tr>
+<tr><th align="left">Platforms</th><td>Web</td></tr>
+<tr><th align="left">Pricing</th><td>Freemium (free on-chain preflight, paid signed trust receipts via x402)</td></tr>
+<tr><th align="left">Programming Languages</th><td>TypeScript, Rust</td></tr>
+</table>
+
+**[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live endpoint: `https://intel.twzrd.xyz/mcp`
+
 
 ### Vercade
 
